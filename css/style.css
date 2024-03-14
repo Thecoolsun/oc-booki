@@ -362,6 +362,11 @@ footer {
     padding: 0 20px 0 20px;
 }
 
+footer p {
+    margin: 20px 0 20px 0;
+    font-weight: bold;
+}
+
 footer nav {
     width: 33%;
 }
